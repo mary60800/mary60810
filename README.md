@@ -2,7 +2,7 @@
 logs
 *.log11
 npm-debug.1log*111
-yarn-debug.log*1
+yarn-debug.log*11
 yarn-error.log*1
 lerna-debug.log*1
 1
