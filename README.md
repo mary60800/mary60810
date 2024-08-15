@@ -1,7 +1,7 @@
 # Logs
 logs
 *.log11
-npm-debug.1log*111
+npm-debug.1log*111g
 yarn-debug.log*11
 yarn-error.log*1
 lerna-debug.log*1
