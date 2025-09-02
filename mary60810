@@ -4,7 +4,7 @@ logs
 npm-debug.log1*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*3
+lerna-debug.log*1
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
